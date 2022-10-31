@@ -1,0 +1,16 @@
+apt update && apt upgrade
+pkg install python
+pkg install php
+pkg install nano
+pip install telethon
+pip install requests
+pip install colorama
+pkg install git
+pip install bs4
+pip install stdiomask
+pkg install python2
+pip install mechanize
+pkg install ruby
+gem install lolcat
+pip install rich
+termux-setup-storage("izinkan")
